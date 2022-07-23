@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 16,
+  "theme": "moonstone",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "enabledCssSnippets": [
+    "custom"
+  ]
+}

@@ -1,0 +1,13 @@
+/* make super-scripts (like footnotes) not disrupt line height */
+sup { 
+    vertical-align: top; 
+    position: relative; 
+    top: -0.3em; 
+    font-size: 0.75em; 
+}
+
+/* add space between footnotes and make them smaller */
+.footnotes li {
+    margin-bottom: 15px;
+    font-size: 15px;
+}

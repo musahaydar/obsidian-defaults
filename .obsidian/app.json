@@ -5,7 +5,10 @@
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 75
+    "downscalePercent": 80
   },
-  "promptDelete": false
+  "promptDelete": false,
+  "showLineNumber": false,
+  "showInlineTitle": false,
+  "defaultViewMode": "preview"
 }

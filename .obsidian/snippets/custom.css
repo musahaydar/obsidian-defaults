@@ -11,3 +11,16 @@ sup {
     margin-bottom: 15px;
     font-size: 15px;
 }
+
+/* replace highlighter color color with a nice purple */
+/* .markdown-rendered mark {
+    background-color: #c9baf9;
+    color: var(--text-normal);
+  } */
+
+/* fix header margins after update */
+.mod-cm6 .cm-editor .HyperMD-header, .markdown-reading-view .markdown-preview-section :is(h1,h2,h3,h4,h5,h6) {
+    line-height: 1.6em !important;
+    margin: 1px 0px 1px 0px !important;
+    padding: 0px 0px 0px 0px !important;
+}

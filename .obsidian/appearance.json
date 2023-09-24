@@ -1,9 +1,12 @@
 {
-  "baseFontSize": 16,
+  "baseFontSize": 14,
   "theme": "moonstone",
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter",
   "enabledCssSnippets": [
     "custom"
-  ]
+  ],
+  "accentColor": "",
+  "baseFontSizeAction": false,
+  "translucency": false
 }
